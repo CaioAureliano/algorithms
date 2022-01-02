@@ -1,4 +1,4 @@
-package iniciante.area_do_circulo;
+package iniciante.e1001_extremamente_basico;
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -18,15 +18,14 @@ public class Main {
          * Code your solution here
          * Escriba su solución aquí
          */
-
         Scanner scanner = new Scanner(System.in);
-        double n, r, out;
 
-        n = 3.14159;
-        r = scanner.nextDouble();
-        out = (r * r) * n;
+        int a = scanner.nextInt();
+        int b = scanner.nextInt();
 
-        System.out.printf("A=%.4f\n", out);
+        int x = a + b;
+
+        System.out.printf("X = %s\n", x);
 
         scanner.close();
 

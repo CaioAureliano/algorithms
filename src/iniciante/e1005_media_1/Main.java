@@ -1,4 +1,4 @@
-package iniciante.media_1;
+package iniciante.e1005_media_1;
 
 import java.io.IOException;
 import java.util.Scanner;

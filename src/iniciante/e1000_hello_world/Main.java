@@ -1,4 +1,4 @@
-package iniciante.hello_world;
+package iniciante.e1000_hello_world;
 
 public class Main {
     public static void main(String[] args) {

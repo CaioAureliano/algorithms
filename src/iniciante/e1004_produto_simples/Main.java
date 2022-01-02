@@ -1,4 +1,4 @@
-package iniciante.soma_simples;
+package iniciante.e1004_produto_simples;
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -7,12 +7,11 @@ public class Main {
     public static void main(String[] args) throws IOException {
         Scanner scanner = new Scanner(System.in);
 
-        int a = scanner.nextInt();
-        int b = scanner.nextInt();
+        int x = scanner.nextInt();
+        int y = scanner.nextInt();
+        int prod = x * y;
 
-        int s = a + b;
-
-        System.out.printf("SOMA = %s\n", s);
+        System.out.printf("PROD = %s\n", prod);
 
         scanner.close();
     }
