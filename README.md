@@ -1,3 +1,3 @@
-# Exercícios Algoritmos
+# Algorithms
 
-Resolução de problemas do beecrowd
+concepts and exercises about algorithms & data structures
